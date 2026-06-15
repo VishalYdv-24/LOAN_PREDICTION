@@ -6,6 +6,7 @@ LoanAI is a full-stack Machine Learning application that predicts loan approval 
 
 The project combines Machine Learning, FastAPI, React, and Tailwind CSS to provide users with an interactive platform for checking loan eligibility and understanding loan repayment details.
 
+![alt text](image.png)
 ---
 
 ## Problem Statement
@@ -27,6 +28,8 @@ Additionally, an EMI calculator is provided to help users estimate their monthly
 * Real-time predictions through FastAPI APIs.
 
 ### EMI Calculator
+
+![alt text](image-3.png)
 
 * Monthly EMI calculation.
 * Total interest calculation.
@@ -53,6 +56,8 @@ The machine learning model uses the following features:
 | Loan_Amount_Term  | Loan repayment duration     |
 | Credit_History    | Previous repayment history  |
 | Property_Area     | Property location           |
+
+![alt text](image-1.png)
 
 ### Target Variable
 
@@ -148,6 +153,9 @@ The model returns:
 * Loan Approval Status
 * Approval Probability
 * Rejection Probability
+
+![alt text](image-2.png)
+
 
 ### Example
 
